@@ -1,5 +1,5 @@
 print("  ")
-print("{WELCOM TO KBC KAUN BANEGA CROREPATI}")
+print("{WELCOM USER TO KBC KAUN BANEGA CROREPATI}")
 print("~~~~~~~~~RULES~~~~~~~~~~")
 print("Their will be of total 10 Questions,each question will have 4 options and only one of them will be the right answer on every correct answer you will win cash rewards ")
 print("cash price on every answer \n 1st question 10,000Rs \n 2nd question 30,000Rs \n 3rd question 60,000Rs \n 4th question 1,00,000Rs \n 5th question 2,00,000Rs \n 6th question 4,00,000Rs \n 7th question 8,00,000Rs \n 8th question 1,00,00,000Rs \n 9th question 3,00,00,000Rs \n 10th question 7,00,00,000Rs")
